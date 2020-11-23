@@ -1,0 +1,31 @@
+Probabilidad:
+
+Se utiliza en situaciones que hay incertidumbre. 
+
+Por lo que, probabilidad, es el área de las matemáticas que nos brinda las herramientas para
+cuantificar incertidumbre.
+
+Axiomas de la probabilidad:
+
+P = num. sucesos exitosos/num. sucesos totales
+
+Existen dos escuelas:
+
+1. Frecuentista: La probabilidad sólo se alcanza cuando se realizan infinitos intentos,
+tiende cada vez más a 1/2 en el caso de la moneda. Esto es lo que se conoce como suceso
+elemental (el resultado de lanzar un dado es 4) y un suceso general sería el resultado
+lanzar un dado es par.
+
+Espacio Muestral, en el que se incluyen todas las posibles ocurrencias de un evento aleatorio.
+Todo elemento aleatorio viene descrito por el espacio muestral y a cada elemento de este
+espacio se le asigna una probabilidad.
+
+Propiedades de la probabilidad:
+
+- De 0 a 1.
+- Certeza P = 1.
+- Imposibilidada P = 0.
+- Disjuntos -> p(A U B) = P(A) + P(B)
+
+En conclusión, la probabilidad es una creencia que tenemos sobre la ocurrencia de eventos
+elementales.
