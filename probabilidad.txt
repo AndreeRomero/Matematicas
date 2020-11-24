@@ -29,3 +29,31 @@ Propiedades de la probabilidad:
 
 En conclusión, la probabilidad es una creencia que tenemos sobre la ocurrencia de eventos
 elementales.
+
+Clase 2:
+
+I. Probabilidad en machine learning.
+
+1. Fuentes de incertidumbre:
+
+a. Datos: Normalmente se presentan datos imperfectos e incompletos.
+b. Atributos del modelo: que se basan en variables, las cuales son un subconjunto reducido 
+de toda la realidad del problema que estoy intentando resolver.
+c. Arquitectura del modelo: Se trata de una representación simplificada de al realidad,
+por lo tanto, en construcción. Inexorablemente, dicha construcción nos induce a otra capa
+de incertidumbre, pues, no se ofrece toda la información.
+
+2. Modelo de clasificación:
+
+El modelo asignara cierta probabilidad a cada documento y así determinara la clasificación
+los docs.
+
+a. Funcionamiento de un modelo:
+
+Cada documento tendrá una etiqueta, pasa por una función que simplifica las variables (ex-
+tractor de atributos). El conjunto de atributos se reduce a un vector que es el que se pasa
+como input al algoritmo de ML. Por lo tanto, sería un algoritmo supervisado.
+
+Al momento de elegir el modelo, decidiremos si será probabilístico o no. Por ejemplo, el 
+modelo bayesiano. Lo siguiente será elegir la entrenamiento (MLE). Sigue, la calibración.
+Finalmente, la Predicción o interpretación del modelo, obteniendo el resultado.
