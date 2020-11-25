@@ -57,3 +57,12 @@ como input al algoritmo de ML. Por lo tanto, sería un algoritmo supervisado.
 Al momento de elegir el modelo, decidiremos si será probabilístico o no. Por ejemplo, el 
 modelo bayesiano. Lo siguiente será elegir la entrenamiento (MLE). Sigue, la calibración.
 Finalmente, la Predicción o interpretación del modelo, obteniendo el resultado.
+
+Clase 3:
+
+I. Tipos de probabilidad
+
+1. Conjunta (joint): Probabilidad de varios sucesos separados
+2. Condicional: Probabilidad de que se suceda un evento dado otro.
+3. Marginal: Se explica teniendo en cuenta la condicional, pues será la probabilidad de
+un evento que ha quedado libre.
