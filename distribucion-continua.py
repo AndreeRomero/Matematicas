@@ -37,4 +37,4 @@ x = np.arange(30, 60, 0.1)
 dist = norm(mu, sigma)
 y = [dist.pdf(value) for value in x]
 plt.plot(x, y)
-plt.show()
+#plt.show()
